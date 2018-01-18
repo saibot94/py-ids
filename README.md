@@ -13,6 +13,7 @@ It contains notebooks and runnable Python files. Everything was written using Py
 * scipy
 * keras
 * tensorflow
+* minisom
 
 ## Running the code
 
