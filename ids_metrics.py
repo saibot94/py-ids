@@ -12,7 +12,7 @@ class IdsMetric:
         return self.tp / (self.tp + self.fn)
 
     def get_false_alarm_rate(self):
-        return self.fn / (self.tp + self.fn)
+        return self.fp / (self.fp + self.tn)
 
     def get_accuracy(self):
         return self.hits / float(self.size)
