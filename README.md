@@ -1,7 +1,7 @@
 # IDS implementation - Metaheuristic algorithms
 
 This is the implementation repository for the IDS implementation of Metaheuristic algorithms. You can see
-more details about the technical aspects of the implementation at: https://gitlab.com/aidc-2/ma-report
+more details about the technical aspects of the implementation in the `pdf report`.  
 
 It contains notebooks and runnable Python files. Everything was written using Python3.5.
 
@@ -17,8 +17,8 @@ It contains notebooks and runnable Python files. Everything was written using Py
 
 ## Running the code
 
-TODO: Write implementation details
+Since the code is written in Jupyter notebooks, fire up your environment and run the notebooks found in the root of this project.
 
 ### Copyright
 
-Cristian Schuszter, 2018
+MIT, Cristian Schuszter, 2018
